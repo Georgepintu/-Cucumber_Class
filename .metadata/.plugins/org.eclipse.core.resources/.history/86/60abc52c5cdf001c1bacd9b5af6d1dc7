@@ -1,0 +1,30 @@
+package steps;
+
+import cucumber.api.java.en.Given;
+import cucumber.api.java.en.When;
+
+public class LoginStepDefinition {
+
+
+	//Given User is on Techfios login page
+	
+	@Given ("^User is on Techfios login page$")
+	
+	public void user_is_on_techfios_login_page () {
+		
+	}
+	
+	
+	// When User enters username as "demo@techfios.com"
+	
+    @When ("^User enters username as "demo@techfios.com"$")
+    public void 
+
+
+	
+	
+	
+	
+
+}
+

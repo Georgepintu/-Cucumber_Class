@@ -1,0 +1,15 @@
+package util;
+
+public class BrowserFactory {
+	
+	//WebDriver driver;
+	
+	public void init() {
+		WebDriver driver = new ChromeDriver();
+		
+		
+		
+		
+	}
+
+}

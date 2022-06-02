@@ -1,0 +1,16 @@
+package steps;
+
+public class LoginStepDefinition {
+
+
+	//Given User is on Techfios login page
+	
+	@Given ("^User is on Techfios login page$")
+	
+	public void somemethod () {
+		
+	
+	} 
+
+}
+

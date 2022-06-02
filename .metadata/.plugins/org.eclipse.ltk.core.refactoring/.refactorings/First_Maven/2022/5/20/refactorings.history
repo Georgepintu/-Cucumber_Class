@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;Driver&apos; to &apos;Session_5&apos;&#x0D;&#x0A;- Original project: &apos;First_Maven&apos;&#x0D;&#x0A;- Destination element: &apos;Session_5&apos;&#x0D;&#x0A;- Original element: &apos;Driver&apos;" description="Copy folder" destination="=Session_5" element1="Driver" files="0" flags="589830" folders="1" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1652064534796" units="0" version="1.0"/>
+</session>

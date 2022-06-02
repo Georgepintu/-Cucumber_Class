@@ -1,0 +1,13 @@
+package util;
+
+public class BrowserFactory {
+	
+	public void init() {
+		
+		
+		
+		
+		
+	}
+
+}

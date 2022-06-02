@@ -1,0 +1,19 @@
+package util;
+
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.chrome.ChromeDriver;
+
+public class BrowserFactory {
+	
+	WebDriver driver;
+	
+	public void init() {
+		System.setProperty("webdriver.chrome.driver", "drivers\\chromedriver.exe");
+		driver = new ChromeDriver();
+		driver.get("https://www.techfios.com/billing/?ng=admin/");
+		driver.manage().deleteAllCookies();
+		
+		
+	}
+
+}
